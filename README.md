@@ -3,4 +3,4 @@
 Nama : Dwie Fajar Febrilistyas<br>
 Stambuk : F55118198<br><br>
 
-Replace with your own Api Key at <u>google_maps_api.xml</u>
+<b>Replace with your own Api Key</b> at google_maps_api.xml
